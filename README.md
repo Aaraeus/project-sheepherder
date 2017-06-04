@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# Project Sheepherder
 
-You can use the [editor on GitHub](https://github.com/Aaraeus/project-sheepherder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An opensource Dungeons and Dragons web application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Getting Started
 
-### Markdown
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Prerequisites
 
-```markdown
-Syntax highlighted code block
+What things you need to install the software and how to install them
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Give examples
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Installing
 
-### Jekyll Themes
+A step by step series of examples.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aaraeus/project-sheepherder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+Give the example
+```
 
-### Support or Contact
+And repeat!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+Until finished!
+```
+
+End with an example of getting some data out of the system or using it for a little demo.
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Python 3.6](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+What are we, animals? Of course we version control code.
+
+## Authors
+
+* **Aaraeus** - *Stuff*
+* **sparhawk364** - *Other stuff*
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+Uhhm, what's a license? Do you really need one for an Open Source project?
+
+## Acknowledgments
+
+* [Roll20](https://roll20.net/compendium/) was used as inspiration.
+* Stuff.
