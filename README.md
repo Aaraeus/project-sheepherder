@@ -32,7 +32,6 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Python 3.6](https://www.python.org/)
 * [Django](https://www.djangoproject.com/)
 
